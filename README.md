@@ -23,7 +23,7 @@ Running the program, calc_samples_rblty.py, will create tables as shown in reada
 The readability table provides 9 measures for each of the 22 samples.    
 The statistics tables provide average, minimum, and maximum values for each of the 9 measures and correlations between the measures.    
 
-Additional texts may be added in the sample_engl_textsa directory.    
+Additional texts may be added in the sample_engl_texts directory.    
 Each text file should be named sequentially, starting with s023_ then s024_ etc.    
     
 The sample texts have been arbitrarily chosen, but are meant to represent varieties in the english language.    
