@@ -2,7 +2,7 @@
 22 english text samples are used to assess 9 readability measures.    
 
 The text samples are in file sample_engl_texts.tar.gz.    
-The extracted texts should be placed in directory sample_engl_texts.    
+The sample text files should be placed in directory sample_engl_texts after untaring and unzipping.    
      
 The program file, calc_samples_rblty.py, should reside at the same level as directory sample_engl_texts.   
 
