@@ -61,6 +61,9 @@ For example, a score of 20 by ari would mean you need 20 years of schooling, a P
 
 Punctuation has a significant impact on the readability measures.    
 Text s012 has very little punctuation and scores as almost unreadable.    
-Text s022 is the same as s012 but with punctuation added and corrected. It scores as very readable.    
+Text s022 is the same as s012 but with punctuation added and corrected. It scores as very readable.   
+
+Note: All copyrights to any text here used remain with their respective owners.    
+Texts are used under the assumption of fair use. Respect all copyrights.   
 
 
