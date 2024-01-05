@@ -25,4 +25,42 @@ The statistics tables provide average, minimum, and maximum values for each of t
 
 Additional texts may be added in the sample_engl_textsa directory.    
 Each text file should be named sequentially, starting with s023_ then s024_ etc.    
+    
+The sample texts have been arbitrarily chosen, but are meant to represent varieties in the english language.    
+The names are descriptive of the texts.        
+Here are the text names:    
+s001_st_john.txt    
+s002_US_Constitution.txt    
+s003_Hamlet.txt    
+s004_Lincoln_Gettysburg.txt    
+s005_Python_sec5doc.txt    
+s006_Ada_Limon_Sharks_in_the_Rivers.txt    
+s007_Feynman_room_at_the_bottom.txt    
+s008_Hawking_BHofT.txt    
+s009_Covey_7habits.txt    
+s010_Klara_and_the_Sun.txt    
+s011_BGates_Avoid_Climate_Disaster.txt    
+s012_BDylan_Murder_Most_Foul.txt    
+s013_Britannica_Pyth_Thm.txt    
+s014_ToniM_bluest_eye.txt    
+s015_Frankenstein.txt    
+s016_Emma_G.txt    
+s017_Steinem.txt    
+s018_Rowling.txt    
+s019_ZSmith.txt    
+s020_MayaA.txt    
+s021_HLammar_pat.txt    
+s022_BDylan_Murder_Most_Foul_fixed_punctuation.txt    
+     
+All measures have a positive pairwise correlation, except for fle, which has negative correlations.    
+This is explained as follws.    
+The fle measure gives the highest score to its most readable text.    
+The other measures give the highest score to the least readable text.    
+The scores of these other measure values can be thought of as the grade level needed to understand the text.    
+For example, a score of 20 by ari would mean you need 20 years of schooling, a PhD, to understand the text.
+
+Punctuation has a significant impact on the readability measures.    
+Text s012 has very little punctuation and scores as almost unreadable.    
+Text s022 is the same as s012 but with punctuation added and corrected. It scores as very readable.    
+
 
