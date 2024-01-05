@@ -3,7 +3,7 @@
 
 The text samples are in file sample_engl_texts.tar.gz.    
 The extracted texts should be placed in directory sample_engl_texts.    
-. 
+     
 The program file, calc_samples_rblty.py, should reside at the same level as directory sample_engl_texts.   
 
 9 readability measures are calculated for each of the 22 sample texts.    
